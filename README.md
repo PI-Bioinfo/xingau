@@ -1,2 +1,2 @@
-# xingau
-Edit something for testing
+# RNAseq_pipe
+RNAseq pipeline by xingaulag 
